@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6ef543aa.css",
+    "main.js": "/portfolio/static/js/main.d063a8d5.js",
+    "static/media/study-buddy-bg.png": "/portfolio/static/media/study-buddy-bg.1ba57d8673eadb8ea132.png",
+    "static/media/in-construction-bg.png": "/portfolio/static/media/in-construction-bg.5dce407f58a7de7530a5.png",
+    "static/media/imanprotector-bg.png": "/portfolio/static/media/imanprotector-bg.e5db98f50b3078a8f7a6.png",
+    "static/media/background.png": "/portfolio/static/media/background.147d33fc250eb6d1ee1c.png",
+    "static/media/stanford-ssg-bg.png": "/portfolio/static/media/stanford-ssg-bg.716525ea47b83330a2db.png",
+    "static/media/choppingboard-bg.png": "/portfolio/static/media/choppingboard-bg.61c7629e8886d824a18a.png",
+    "static/media/art-teacher-bg.png": "/portfolio/static/media/art-teacher-bg.33a82aa3668441d04cc9.png",
+    "static/media/watchtower-bg.png": "/portfolio/static/media/watchtower-bg.a4670944dc6024ab50ad.png",
+    "index.html": "/portfolio/index.html",
+    "main.6ef543aa.css.map": "/portfolio/static/css/main.6ef543aa.css.map",
+    "main.d063a8d5.js.map": "/portfolio/static/js/main.d063a8d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef543aa.css",
+    "static/js/main.d063a8d5.js"
+  ]
+}
