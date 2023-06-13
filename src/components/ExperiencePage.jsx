@@ -17,11 +17,11 @@ const ProjectsPage = () => {
         <div className="bg-gray-100 h-[80vh] md:ml-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={ssg}
-            className="md:max-w-xl sm:max-w-lg max-w-md h-auto"
+            className="md:max-w-xl sm:max-w-lg max-w-md h-auto my-auto"
             alt="stanford-ssg-showcase-img"
           ></img>
-          <p className="text-3xl font-bold">Stanford Science Small Groups</p>
-          <p className="text-2xl max-w-md">
+          <p className="md:text-3xl sm:text-2xl text-xl font-bold">Stanford Science Small Groups</p>
+          <p className="md:text-2xl sm:text-xl text-lg max-w-md">
             Worked with Stanford Ph.D students on researching and presenting
             neural networks and AI research
           </p>
@@ -29,7 +29,7 @@ const ProjectsPage = () => {
         <div className="bg-gray-100 h-[80vh] md:mr-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={art}
-            className="max-w-xs h-auto mb-10"
+            className="max-w-xs h-auto mb-10 my-auto"
             alt="art-teacher-showcase-img"
           ></img>
 
@@ -44,11 +44,11 @@ const ProjectsPage = () => {
         <div className="bg-gray-100 h-[80vh] md:ml-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={sb}
-            className="md:max-w-2xl sm:max-w-xl max-w-lg h-auto"
+            className="md:max-w-2xl sm:max-w-xl max-w-lg h-auto my-auto"
             alt="imanprotector-showcase-img"
           ></img>
-          <p className="text-3xl font-bold -mt-8">Study Buddy Tutor</p>
-          <p className="text-2xl max-w-xl">
+          <p className="md:text-3xl sm:text-2xl text-xl font-bold">Study Buddy Tutor</p>
+          <p className="md:text-2xl sm:text-xl text-lg max-w-lg">
             Taught and mentored international and/or underperforming students
             from diverse backgrounds, subjects such as APCS and Math
           </p>
@@ -56,11 +56,11 @@ const ProjectsPage = () => {
         <div className="bg-gray-100 h-[80vh] md:mr-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={construction}
-            className="md:max-w-xl sm:max-w-lg max-w-md h-auto"
+            className="md:max-w-xl sm:max-w-lg max-w-md h-auto my-auto"
             alt="imanprotector-showcase-img"
           ></img>
-          <p className="text-3xl font-bold">More to Come!</p>
-          <p className="text-2xl max-w-lg">
+          <p className="md:text-3xl sm:text-2xl text-xl font-bold">More to Come!</p>
+          <p className="md:text-2xl sm:text-xl text-lg max-w-md">
             More experience will come and go, and it may even start with you!
             Let us build businesses and experiences together.
           </p>
