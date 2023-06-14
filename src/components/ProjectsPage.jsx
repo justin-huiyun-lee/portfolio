@@ -91,7 +91,7 @@ const ProjectsPage = () => {
             using knowledge of shading using black/white
           </p>
         </div>
-        <div className="bg-gray-100 h-[80vh] md:ml-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
+        <div className="bg-gray-100 h-[80vh] md:mr-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={pose}
             className="md:max-w-[17.5rem] max-w-[15rem] h-auto border-gray-300 border-4 rounded-lg my-auto"

@@ -29,7 +29,7 @@ const ProjectsPage = () => {
         <div className="bg-gray-100 h-[80vh] md:mr-5 flex flex-col justify-end p-4 items-center rounded-3xl shadow-gray-200 shadow-md overflow-hidden border-8 border-gray-100">
           <img
             src={art}
-            className="max-w-xs h-auto mb-10 my-auto"
+            className="max-w-xs h-auto my-auto"
             alt="art-teacher-showcase-img"
           ></img>
 
